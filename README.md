@@ -4,9 +4,9 @@ Python3 and ffmpeg converter has to be installed on your system
 
 ## Usage
 ```
-python3 main.py <filename>
+python3 main.py <dirname>
 ```
-filename - path to a folder where your .ts chunks located  
+dirname - path to a directory where your .ts chunks are located  
 
 ## Notice
 1. Order - .ts files are sorted alpha-numericaly.  
